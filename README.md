@@ -1,5 +1,6 @@
 # DataStore
 A file-based key-value data store that supports the basic CRD (create, read, and delete) operations. This data store is meant to be used as a local storage for one single process on one laptop. 
+The code for dataStore is in :- https://github.com/niteshnanda02/dataStore/blob/master/src/com/company/DataStore.java
 
 # Dependency
 Download jackson-all-1.9.0.jar : 
